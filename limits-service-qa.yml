@@ -1,5 +1,5 @@
 limits-service:
-  maximum: 555
+  maximum: 654
 management:
   endpoints:
     web:
