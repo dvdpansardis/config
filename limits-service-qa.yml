@@ -1,7 +1,7 @@
 limits-service:
   maximum: 555
-managment:
+management:
   endpoints:
     web:
-      exposuce:
-        include: /actuator/refresh  
+      exposure:
+        include: health,info,refresh
