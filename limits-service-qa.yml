@@ -1,3 +1,7 @@
 limits-service:
   maximum: 666
-  
+managment:
+  endpoints:
+    web:
+      exposuce:
+        include: /actuator/refresh  
